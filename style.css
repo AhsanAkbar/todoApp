@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/Cubase_10.5_Wallpaper_4096x2160.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.textbox{
+    border: none;
+    outline: transparent;
+    border-bottom: 3px solid yellow;
+    font-size: 2rem;
+    box-shadow:0 3px 4px yellow;
+}
+.deleteall{
+    background-color: red;
+    color: white;
+    font-size: 1.2rem;
+    box-shadow:0 3px 4px white;
+    margin: auto 4px;
+}
+.addbutton{
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    box-shadow:0 3px 4px white;
+    margin: auto 20px;
+}
+.listitems{
+    color: white;
+    list-style: none;
+    font-size: 2rem;
+}
+.deletebutton,.editbutton{
+    background-color: yellow;
+    margin:auto 20px;
+    padding: auto 20px;
+}
